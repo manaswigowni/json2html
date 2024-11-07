@@ -1,3 +1,5 @@
+// json2html.js
+
 export default function json2html(data) {
   // Create the opening table tag with the specified data-user attribute
   let tableHTML = '<table data-user="manaswigowni6@gmail.com">';
